@@ -9,7 +9,7 @@
 ##### The dataset contains 768 patient records, each with 8 medical features, including glucose level, BMI, blood pressure, age, and insulin levels.
 
 ##### 📂 Dataset Information
-##### Source: Local CSV (diabetes dataset.csv)
+##### Source: Kaggle Diabetic Dataset
 ##### Total Samples: 768
 ##### Features (X): 8 medical measurements
 ##### Target Label (y): Outcome
